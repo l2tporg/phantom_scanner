@@ -1,0 +1,10 @@
+{
+  "name": "phantomjs-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "phantom": "^4.0.1"
+  }
+}
