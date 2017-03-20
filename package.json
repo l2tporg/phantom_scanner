@@ -5,6 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "co": "^4.6.0",
-    "phantom": "^4.0.1"
+    "phantom": "^4.0.1",
+    "phantomjs-prebuilt": "^2.1.14"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }

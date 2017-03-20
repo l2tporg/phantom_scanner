@@ -368,7 +368,7 @@ phantom@^4.0.1:
     split "^1.0.0"
     winston "^2.2.0"
 
-phantomjs-prebuilt@^2.1.4:
+phantomjs-prebuilt@^2.1.14, phantomjs-prebuilt@^2.1.4:
   version "2.1.14"
   resolved "https://registry.yarnpkg.com/phantomjs-prebuilt/-/phantomjs-prebuilt-2.1.14.tgz#d53d311fcfb7d1d08ddb24014558f1188c516da0"
   dependencies:
